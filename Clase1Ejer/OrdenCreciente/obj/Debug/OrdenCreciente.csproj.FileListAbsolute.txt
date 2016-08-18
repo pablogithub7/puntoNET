@@ -1,0 +1,5 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\OrdenCreciente\bin\Debug\OrdenCreciente.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\OrdenCreciente\bin\Debug\OrdenCreciente.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\OrdenCreciente\bin\Debug\OrdenCreciente.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\OrdenCreciente\obj\Debug\OrdenCreciente.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\OrdenCreciente\obj\Debug\OrdenCreciente.pdb

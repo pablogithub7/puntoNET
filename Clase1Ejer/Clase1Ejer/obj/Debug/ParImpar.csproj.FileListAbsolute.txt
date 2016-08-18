@@ -1,0 +1,6 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Clase1Ejer\bin\Debug\Clase1Ejer.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Clase1Ejer\bin\Debug\Clase1Ejer.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Clase1Ejer\bin\Debug\Clase1Ejer.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Clase1Ejer\obj\Debug\ParImpar.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Clase1Ejer\obj\Debug\Clase1Ejer.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Clase1Ejer\obj\Debug\Clase1Ejer.pdb

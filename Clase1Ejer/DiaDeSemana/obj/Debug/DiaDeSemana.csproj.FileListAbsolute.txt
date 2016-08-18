@@ -1,0 +1,6 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\DiaDeSemana\bin\Debug\DiaDeSemana.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\DiaDeSemana\obj\Debug\DiaDeSemana.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\DiaDeSemana\bin\Debug\DiaDeSemana.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\DiaDeSemana\bin\Debug\DiaDeSemana.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\DiaDeSemana\obj\Debug\DiaDeSemana.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\DiaDeSemana\obj\Debug\DiaDeSemana.pdb

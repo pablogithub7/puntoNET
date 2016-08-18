@@ -1,0 +1,6 @@
+c:\users\pablo\documents\visual studio 2015\Projects\Clase1Ejer\Clase1Ejer\bin\Debug\Clase1Ejer.exe.config
+c:\users\pablo\documents\visual studio 2015\Projects\Clase1Ejer\Clase1Ejer\bin\Debug\Clase1Ejer.exe
+c:\users\pablo\documents\visual studio 2015\Projects\Clase1Ejer\Clase1Ejer\bin\Debug\Clase1Ejer.pdb
+c:\users\pablo\documents\visual studio 2015\Projects\Clase1Ejer\Clase1Ejer\obj\Debug\Clase1Ejer.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2015\Projects\Clase1Ejer\Clase1Ejer\obj\Debug\Clase1Ejer.exe
+c:\users\pablo\documents\visual studio 2015\Projects\Clase1Ejer\Clase1Ejer\obj\Debug\Clase1Ejer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Sueldo\bin\Debug\Sueldo.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Sueldo\bin\Debug\Sueldo.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Sueldo\bin\Debug\Sueldo.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Sueldo\obj\Debug\Sueldo.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Sueldo\obj\Debug\Sueldo.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\Clase1Ejer\Sueldo\obj\Debug\Sueldo.pdb
